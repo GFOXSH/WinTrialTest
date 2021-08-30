@@ -2,13 +2,10 @@
 Script para Windows 10, Crack de Minecraft Bedrock
 
 
-1- Faça download do Ativador.zip
+1- Faça download do Ativar_mine.cmd
 
 
-2- Extraia o arquivo Ativador.zip
+2- Execute como adeministrador
 
 
-3- Execute como Administrador o Ativador.bat
-
-
-4- Seja feliz :D
+3- Seja feliz :D
