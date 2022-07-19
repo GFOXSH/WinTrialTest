@@ -1,11 +1,6 @@
 # MinecraftBedrock
-Script para Windows 10, Crack de Minecraft Bedrock
+Modified libraries that disable trial in Minecraft Bedrock on Windows 10
 
+The original files are from Windows 10.0.18363.418 Version 1909
 
-1- Faça download do Ativar_mine.cmd
-
-
-2- Execute como adeministrador
-
-
-3- Seja feliz :D
+Use Unlocker to replace
